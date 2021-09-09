@@ -1,0 +1,3 @@
+Orange, 1.0
+Chicken, 5.0
+Ice Cream, 10.0
